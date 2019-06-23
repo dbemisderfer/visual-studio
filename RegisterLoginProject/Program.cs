@@ -7,6 +7,8 @@ namespace RegisterLoginProject
         static string username;
         static string password;
 
+        // Messing around with GitHub repo
+
         public static void Register()
         {
             Console.WriteLine("Welcome, please register a user account. ");
